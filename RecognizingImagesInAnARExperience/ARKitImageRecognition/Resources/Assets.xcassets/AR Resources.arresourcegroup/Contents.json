@@ -1,0 +1,50 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "resources" : [
+    {
+      "filename" : "601门口.arreferenceimage"
+    },
+    {
+      "filename" : "602门口.arreferenceimage"
+    },
+    {
+      "filename" : "605门口.arreferenceimage"
+    },
+    {
+      "filename" : "606门口.arreferenceimage"
+    },
+    {
+      "filename" : "607门口.arreferenceimage"
+    },
+    {
+      "filename" : "607前台.arreferenceimage"
+    },
+    {
+      "filename" : "607正门.arreferenceimage"
+    },
+    {
+      "filename" : "安全出口.arreferenceimage"
+    },
+    {
+      "filename" : "垃圾桶附近.arreferenceimage"
+    },
+    {
+      "filename" : "楼梯口.arreferenceimage"
+    },
+    {
+      "filename" : "灭火器附近.arreferenceimage"
+    },
+    {
+      "filename" : "洗手间.arreferenceimage"
+    },
+    {
+      "filename" : "右前609.arreferenceimage"
+    },
+    {
+      "filename" : "走廊起点.arreferenceimage"
+    }
+  ]
+}
